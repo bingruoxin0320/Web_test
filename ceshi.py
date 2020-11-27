@@ -24,5 +24,3 @@ print("缺少：",len(c))
 print("缺少:",c)
 print("校验的：",len(HouTai))
 print("完整的：",len(XuQiu)) 
-
-print("test")
